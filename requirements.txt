@@ -1,0 +1,14 @@
+# Core HTTP client
+requests>=2.31.0
+python-dotenv>=1.0.1
+openai>=1.40.0
+azure-functions
+
+# (Optional) Authentication with Microsoft Graph using MSAL
+# msal>=1.30.0
+
+# (Optional) Load secrets from .env file instead of hardcoding
+# python-dotenv>=1.0.1
+
+# (Optional) Async requests if you want faster fetching of posts + replies
+# aiohttp>=3.10.0
